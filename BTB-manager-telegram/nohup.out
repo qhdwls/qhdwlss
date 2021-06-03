@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/mnt/c/binance-trade-bot/BTB-manager-telegram/btb_manager_telegram/__main__.py", line 6, in <module>
+    from telegram.ext import ConversationHandler, Updater
+ModuleNotFoundError: No module named 'telegram'
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/mnt/c/binance-trade-bot/BTB-manager-telegram/btb_manager_telegram/__main__.py", line 6, in <module>
+    from telegram.ext import ConversationHandler, Updater
+ModuleNotFoundError: No module named 'telegram'
